@@ -42,4 +42,5 @@ Excel, MS Power BI
 # LinkedIn Post 📲
 https://www.linkedin.com/posts/rohan-srivastava-273703267_dataanalysis-python-internship-activity-7053565540174360578-ZnzK?utm_source=share&utm_medium=member_desktop
 
-
+# Project Video
+https://drive.google.com/file/d/1vw9gMHbyT4B4LoBF0UX-fqFpQ9g0cOCg/view?usp=share_link
